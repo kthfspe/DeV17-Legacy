@@ -1,0 +1,2 @@
+can_hal_callbacks.c:3:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+can_hal_callbacks.c:10:6:HAL_CAN_RxFifo1MsgPendingCallback	2

@@ -1,0 +1,16 @@
+../Middlewares/Third_Party/lvgl/src/hal/../draw/../misc/lv_color.h:588:26:lv_color_make	16	static
+../Middlewares/Third_Party/lvgl/src/hal/../draw/../misc/lv_color.h:689:26:lv_color_white	8	static
+../Middlewares/Third_Party/lvgl/src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../Middlewares/Third_Party/lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../Middlewares/Third_Party/lvgl/src/core/lv_disp.h:205:20:lv_scr_load	16	static
+../Core/Src/lv_dashboard_unit.c:52:6:lv_dashboard	8	static
+../Core/Src/lv_dashboard_unit.c:65:6:dashboard_open	24	static
+../Core/Src/lv_dashboard_unit.c:75:6:dv_open	24	static
+../Core/Src/lv_dashboard_unit.c:81:6:settings_open	16	static
+../Core/Src/lv_dashboard_unit.c:85:6:mode_select_open	24	static
+../Core/Src/lv_dashboard_unit.c:99:18:lv_splash_screen_create	32	static
+../Core/Src/lv_dashboard_unit.c:118:18:lv_dashboard_create	72	static
+../Core/Src/lv_dashboard_unit.c:275:18:lv_dv_scr_create	16	static
+../Core/Src/lv_dashboard_unit.c:306:18:lv_settings_create	32	static
+../Core/Src/lv_dashboard_unit.c:314:18:lv_mode_select_create	24	static
+../Core/Src/lv_dashboard_unit.c:365:18:add_dv_tile	32	static

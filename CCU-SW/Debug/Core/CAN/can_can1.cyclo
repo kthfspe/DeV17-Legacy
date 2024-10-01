@@ -1,0 +1,6 @@
+can_can1.c:6:13:can1_mcu_set_ccu_cooling_points_receive_callback	1
+can_can1.c:11:13:can1_ccu_status_1_transmit_callback	1
+can_can1.c:15:13:can1_ccu_status_2_transmit_callback	1
+can_can1.c:20:9:can1_mcu_set_ccu_cooling_points_decode	17
+can_can1.c:71:9:can1_ccu_status_1_encode	17
+can_can1.c:115:9:can1_ccu_status_2_encode	5

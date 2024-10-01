@@ -1,0 +1,6 @@
+../Core/CAN/can_hal_can1.c:17:6:receive_callback_can_hal_can1	64	static
+../Core/CAN/can_hal_can1.c:35:6:can1_ccu_status_1_transmit	48	static
+../Core/CAN/can_hal_can1.c:66:6:can1_ccu_status_2_transmit	48	static
+../Core/CAN/can_hal_can1.c:85:9:init_peripheral_can_hal_can1	16	static
+../Core/CAN/can_hal_can1.c:101:9:init_filter_can_hal_can1	48	static
+../Core/CAN/can_hal_can1.c:121:9:can1_mcu_set_ccu_cooling_points_counter	8	static

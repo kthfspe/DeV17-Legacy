@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+../Core/Src/tasks.c:32:6:indicatorsTask	16	static
+../Core/Src/tasks.c:151:6:canTXTask	88	static
+../Core/Src/tasks.c:189:6:canRXTask	24	static
+../Core/Src/tasks.c:259:6:lvglTask	16	static

@@ -1,0 +1,12 @@
+main.c:85:6:can1_ccu_status_1_transmit_callback	1
+main.c:95:6:can1_ccu_status_2_transmit_callback	1
+main.c:99:6:set_duty_cycle	10
+main.c:134:6:can1_mcu_set_ccu_cooling_points_receive_callback	1
+main.c:145:7:temperature_from_thermistor	1
+main.c:163:6:HAL_ADC_ConvCpltCallback	1
+main.c:167:6:set_sample_frequency	1
+main.c:175:6:set_cooling_frequency	1
+main.c:185:6:initialize_timers	8
+main.c:230:5:main	6
+main.c:309:6:SystemClock_Config	3
+main.c:347:6:Error_Handler	1

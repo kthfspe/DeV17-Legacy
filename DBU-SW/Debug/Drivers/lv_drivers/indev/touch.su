@@ -1,0 +1,4 @@
+../Drivers/lv_drivers/indev/touch.c:50:6:touch_init	8	static
+../Drivers/lv_drivers/indev/touch.c:65:13:touch_read_cb	16	static
+../Drivers/lv_drivers/indev/touch.c:93:9:TS_Init	24	static
+../Drivers/lv_drivers/indev/touch.c:155:9:TS_GetState	48	static
